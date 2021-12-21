@@ -81,21 +81,36 @@ SECCIÓN 7–5 Redes en escalera
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
 
+![image](https://user-images.githubusercontent.com/94079321/146951288-03307fe7-de46-4e8e-a078-87565f757f09.png)
+![image](https://user-images.githubusercontent.com/94079321/146951314-0d00ea01-ef51-473f-a5cd-5e5cb2f432e3.png)
+![image](https://user-images.githubusercontent.com/94079321/146951345-ed796506-e93e-4a9f-8191-89a7468f97bd.png)
+![image](https://user-images.githubusercontent.com/94079321/146951369-224b1057-27ac-409e-a547-201b417950cb.png)
 
 43. Determine IT y VSALIDA en la figura 7-80
 
+![image](https://user-images.githubusercontent.com/94079321/146951627-6a69be2b-d316-4b7d-a83e-c925c7dc122f.png)
+![image](https://user-images.githubusercontent.com/94079321/146951654-d8b85486-9669-4467-966d-04aed2573fa0.png)
 
 SECCIÓN 7–6 El puente Wheatstone
 
 45. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
+![image](https://user-images.githubusercontent.com/94079321/146951838-54ab5b56-6164-44ed-b343-a8b21fe57767.png)
+
+
 SECCIÓN 7–7 Localización de fallas
 
 47. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
+![image](https://user-images.githubusercontent.com/94079321/146951975-01cf3935-7a15-4000-831d-8534c868b642.png)
+
 49. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
+![image](https://user-images.githubusercontent.com/94079321/146952216-8bc635d7-3ef7-405d-b77b-c0b5ec9e08f9.png)
+
 51. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir
+
+![image](https://user-images.githubusercontent.com/94079321/146952252-8d81004e-a328-4c99-8395-979fc3188cce.png)
 
 3. Resolución Unidad 8
 
