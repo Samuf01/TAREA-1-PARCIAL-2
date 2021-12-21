@@ -6,9 +6,15 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 1. Objetivos
 
 1.1. Objetivo General
+
 1.2. Objetivo Especifico
 
 2. Marco Teórico
+
+![image](https://user-images.githubusercontent.com/94079321/146959016-bc581bae-5270-4e51-aa74-6a43b59e0f03.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146959051-4a682eb9-3899-49d4-93e2-e4d95dab710b.png)
+
 3. Resolución Unidad 7
 
 SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
@@ -63,42 +69,59 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/146956628-11fdb76c-63ef-4de7-a7a3-57571eac5a63.png)
 
-23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.
+![image](https://user-images.githubusercontent.com/94079321/146959172-f5f71184-5105-4c12-b564-73418ba58f48.png)
+
+23. Encuentra la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.
 
 ![image](https://user-images.githubusercontent.com/94079321/146956667-45b22cb1-0723-4862-95e2-bc406876092a.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146959270-e018c1d7-5e9b-4002-88f5-e3f6c76c9c73.png)
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
 
+![image](https://user-images.githubusercontent.com/94079321/146959328-0f629a0b-b6bc-430d-b280-07514a2c1bbf.png)
+
 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+![image](https://user-images.githubusercontent.com/94079321/146959362-6124c33d-ac6c-4a64-bb54-e857c12c185c.png)
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B
 
 ![image](https://user-images.githubusercontent.com/94079321/146956746-02aed5ab-5856-4227-9915-53a4ecc3634e.png)
 
+![image](https://user-images.githubusercontent.com/94079321/146959421-09aade3c-a4a7-425e-8c79-3ea731ca30f4.png)
+
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
+
+![image](https://user-images.githubusercontent.com/94079321/146959469-8c1d8fc2-a9c8-485d-b479-3d0894bf0a6f.png)
 
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
 
 ![image](https://user-images.githubusercontent.com/94079321/146956821-1fb0c717-ddbf-420c-a90a-3cc7fa73ddae.png)
                                     
                                     (a) Encuentre VG y VS                      (b) Determine I1, I2, ID, e IS                   (c) Encuentre VDS y VDG
-                                    
+     
+     ![image](https://user-images.githubusercontent.com/94079321/146959543-d04a9043-ac1f-4459-b69e-f5747acc95be.png)
+
 SECCIÓN 7–4 Efecto de carga de un voltímetro
 
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
                        
                                      (a) 1 V        (b) 10 V          (c) 100 V             (d) 1000 V
                                      
-37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+![image](https://user-images.githubusercontent.com/94079321/146959586-1d6672eb-77db-480c-b247-a45ac48e6b1d.png)
+
+37. El voltímetro descrito en el problema 36 se utiliza para medir el voltaje entre los extremos de R4 en la figura 7-62 (a).
 
           (a) ¿Qué intervalo se deberá utilizar?
           (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
           
   ![image](https://user-images.githubusercontent.com/94079321/146956919-3cd91b79-79d1-430a-b989-3be2f324a113.png)
 
-          
+![image](https://user-images.githubusercontent.com/94079321/146959703-a695e0b1-b978-401e-8c4b-989d206d877f.png)
+
 SECCIÓN 7–5 Redes en escalera
 
 39. Para el circuito mostrado en la figura 7-77, calcule:
