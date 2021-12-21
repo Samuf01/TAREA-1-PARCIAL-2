@@ -84,25 +84,74 @@ SECCIÓN 7–5 Redes en escalera
 
 43. Determine IT y VSALIDA en la figura 7-80
 
-45. Repita el problema 44 para las siguientes condiciones
 
-        (a) SW3 y SW4 conectados a +12 V, SW1 y SW2 a tierra
-        (b) SW3 y SW1 conectados a +12 V, SW2 y SW4 a tierra
-        (c) Todos los interruptores conectados a +12 V
-        
 SECCIÓN 7–6 El puente Wheatstone
 
-47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+45. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
 SECCIÓN 7–7 Localización de fallas
 
-49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+47. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
-51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+49. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
-53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir
+51. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir
 
 3. Resolución Unidad 8
 
+SECCIÓN 8–3 Conversiones de fuente
 
+1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 Æ. Conviértala en una fuente de corriente equivalente.
+
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente
+
+SECCIÓN 8–4 El teorema de superposición
+
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69. 
+
+9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70
+
+11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
         
+13. Determine el voltaje del punto A al punto B en la figura 8-73.
+
+15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77
+
+19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
+
+21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+SECCIÓN 8–6 Teorema de Norton 
+
+23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+
+25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
+
+29. Aplique el teorema de Norton al circuito de la figura 8-84.
+
+SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
+31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima. 
+
+33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+
+SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
+
+35. En la figura 8-89, convierta cada red Y en una red delta
+
+Conclusiones
+
+Bibliografía
+
+Vídeo
+
+
+
