@@ -259,7 +259,7 @@ SECCIÓN 8–6 Teorema de Norton
 
 ![image](https://user-images.githubusercontent.com/94079321/146962476-230b714b-40c4-4c1b-af80-fdb2d367eb51.png)
 
-! [imagen] (https://user-images.githubusercontent.com/94079321/146953140-3cd091c9-5374-4d47-846f-2d876818a86e.png)
+![image](https://user-images.githubusercontent.com/94079321/146963705-887d6c85-e3f6-42ea-8a82-1382d3d1bb9d.png)
 
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
@@ -268,7 +268,7 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 ![image](https://user-images.githubusercontent.com/94079321/146962538-2d004c23-6f8b-488d-b31a-e225ba7f9a6a.png)
 
-! [imagen] (https://user-images.githubusercontent.com/94079321/146953171-c828fed4-4746-42d5-88bf-8533b97507be.png)
+![image](https://user-images.githubusercontent.com/94079321/146963782-2b7ad986-808b-4639-ac0f-75a2ae6af181.png)
 
 SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
@@ -276,7 +276,8 @@ SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
 ![image](https://user-images.githubusercontent.com/94079321/146962578-3612f8d9-7acf-4d31-9a46-a78189b1e02f.png)
 
-! [imagen] (https://user-images.githubusercontent.com/94079321/146953195-fc9f75de-d109-4ff8-a4af-f7d27cbf1dbe.png)
+![image](https://user-images.githubusercontent.com/94079321/146963902-b031a39e-b082-46d1-92cf-52fb8a380f7e.png)
+
 
 Conclusiones
 
