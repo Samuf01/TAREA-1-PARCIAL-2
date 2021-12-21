@@ -139,13 +139,11 @@ SECCIÓN 8–6 Teorema de Norton
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
-31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima. 
-
-33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+31. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
 
 SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
-35. En la figura 8-89, convierta cada red Y en una red delta
+33. En la figura 8-89, convierta cada red Y en una red delta
 
 Conclusiones
 
