@@ -178,33 +178,55 @@ SECCIÓN 8–4 El teorema de superposición
 
 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 
+![image](https://user-images.githubusercontent.com/94079321/146956478-1ffa4f80-48bc-470d-a6bd-2087d2b37d49.png)
+
 SECCIÓN 8–5 Teorema de Thevenin
 
 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77
 
+![image](https://user-images.githubusercontent.com/94079321/146956571-a8a7407e-cb45-4660-a610-97323f081979.png)
+
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
 
+![image](https://user-images.githubusercontent.com/94079321/146956631-0682fea2-4eb5-4e8e-b41c-03349a332468.png)
+
 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/94079321/146956692-0fb4105b-d27d-4548-a2d3-876ec19fc9d0.png)
 
 SECCIÓN 8–6 Teorema de Norton 
 
 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
+![image](https://user-images.githubusercontent.com/94079321/146956811-b980fdfd-280c-41bb-849f-773424bfa048.png)
+
 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/94079321/146956899-d468aaee-f061-4f1f-a75a-b4b4755e6b1e.png)
 
 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
 
+![image](https://user-images.githubusercontent.com/94079321/146956743-d5891441-40cc-4bdd-bdbf-b02c9d84308f.png)
+
 29. Aplique el teorema de Norton al circuito de la figura 8-84.
+
+![image](https://user-images.githubusercontent.com/94079321/146956963-6c4fbb2d-d062-41a2-9ea3-d3119b708eca.png)
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima. 
 
-33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+![image](https://user-images.githubusercontent.com/94079321/146957039-38037e8c-e5e9-4d95-bc1d-ecfd51749006.png)
+
+33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en la configuración de escalera de la figura 8-87?
+
+![image](https://user-images.githubusercontent.com/94079321/146957079-abac1ca9-8b19-499f-a8bc-622e13fa7b2d.png)
 
 SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
 35. En la figura 8-89, convierta cada red Y en una red delta
+
+![image](https://user-images.githubusercontent.com/94079321/146957143-da0a38df-9798-40ef-a9ae-692dc6e31195.png)
 
 Conclusiones
 
