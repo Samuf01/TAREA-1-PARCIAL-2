@@ -186,25 +186,52 @@ SECCIÓN 8–3 Conversiones de fuente
 
 1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 Æ. Conviértala en una fuente de corriente equivalente.
 
-3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+![image](https://user-images.githubusercontent.com/94079321/146961233-e3a3b815-1477-4c92-8cc4-d0762f8cbc20.png)
+
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+![image](https://user-images.githubusercontent.com/94079321/146961276-856d3899-8dd2-4f0a-934d-b76feb6bda20.png)
 
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente
+
+![image](https://user-images.githubusercontent.com/94079321/146961310-3964ea52-8689-47ae-aee6-eb32677415e3.png)
 
 SECCIÓN 8–4 El teorema de superposición
 
 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69. 
 
+![image](https://user-images.githubusercontent.com/94079321/146961372-12169245-aae4-4a7b-b658-f562a233b630.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146961419-493cc658-72cc-42b0-bfb6-8bbd4741d5d9.png)
+
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70
 
-11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
-        
+![image](https://user-images.githubusercontent.com/94079321/146961465-d240011a-a3e7-475f-97d8-acc3e542e33b.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146961509-9dce4dcd-95e3-44b0-8652-b1153fba44b8.png)
+
+11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA> VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
+
+![image](https://user-images.githubusercontent.com/94079321/146961549-ada1ee1c-d721-498b-8d70-d66bd3a571a9.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146961606-a8f7f1f5-6f05-4486-bf26-62b3c4fcd990.png)
+
 13. Determine el voltaje del punto A al punto B en la figura 8-73.
 
+![image](https://user-images.githubusercontent.com/94079321/146961667-3ec654ea-6335-4e08-8280-36fedb13e2d5.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146961743-05d1a902-99f0-481c-a037-444c87aa0dc5.png)
+
 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+![image](https://user-images.githubusercontent.com/94079321/146961803-94222ac3-2c3e-4694-94e1-27606ac96e4a.png)
+
 
 SECCIÓN 8–5 Teorema de Thevenin
 
 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77
+
+![image](https://user-images.githubusercontent.com/94079321/146961882-05c4ccc1-6fe7-4b63-93f4-16022e91d33a.png)
 
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
 
