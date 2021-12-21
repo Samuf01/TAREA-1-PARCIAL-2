@@ -22,117 +22,137 @@ cuatro resistores
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
 desde la fuente.
 
+![image](https://user-images.githubusercontent.com/94079321/146956320-4456e807-79e6-4534-9bf2-2c7367fcb30c.png)
+
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
+
+![image](https://user-images.githubusercontent.com/94079321/146956436-44f1a544-fb72-4256-9edd-1050bd838dbb.png)
 
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
 
+![image](https://user-images.githubusercontent.com/94079321/146956472-bdb9c47f-a3bb-4fb6-9170-bc9bbfd3f6d3.png)
+
 SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
-9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
-la fuente
+9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente
+
+![image](https://user-images.githubusercontent.com/94079321/146956368-0f4a02c1-baff-4643-9260-37e61b31bb93.png)
+
 
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
  
+ ![image](https://user-images.githubusercontent.com/94079321/146956382-be905330-1d06-46e2-b338-192dbf0d6532.png)
+
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+
+![image](https://user-images.githubusercontent.com/94079321/146956516-7bc0200b-8f20-437f-a89e-7f628802adb3.png)
 
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
+![image](https://user-images.githubusercontent.com/94079321/146956543-cf8c5909-7b5e-425c-a0fa-2168a48fc8a6.png)
+
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+
+![image](https://user-images.githubusercontent.com/94079321/146956572-9a6089de-ff0e-4ea9-953e-bec8bed1cf1b.png)
 
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
+![image](https://user-images.githubusercontent.com/94079321/146956593-804df415-ec3a-4ba5-9aab-7046df50e32f.png)
+
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2
 
-![image](https://user-images.githubusercontent.com/94079321/146948498-62a5bca2-8bf0-4a0b-8d41-75bf6287728f.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146948577-813bca85-0768-4e25-9ece-db1e61a59471.png)
+![image](https://user-images.githubusercontent.com/94079321/146956628-11fdb76c-63ef-4de7-a7a3-57571eac5a63.png)
 
 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.
 
-![image](https://user-images.githubusercontent.com/94079321/146948962-8bc73b3a-d2ce-4f4b-9b89-5a9173392c29.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146949017-bf3176c3-2eb9-4546-b065-f243e49182dc.png)
-
+![image](https://user-images.githubusercontent.com/94079321/146956667-45b22cb1-0723-4862-95e2-bc406876092a.png)
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
 
-![image](https://user-images.githubusercontent.com/94079321/146949359-96815769-1c0e-467e-88c8-0cdb772cff47.png)
-
 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
-
-![image](https://user-images.githubusercontent.com/94079321/146949463-d6e9616f-2979-4584-bda6-46d579921cce.png)
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B
 
-![image](https://user-images.githubusercontent.com/94079321/146949911-62bab9db-5469-4e78-b255-a19b7835b072.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146950024-7ff06077-c9ae-40eb-8681-fbedbde7b96c.png)
+![image](https://user-images.githubusercontent.com/94079321/146956746-02aed5ab-5856-4227-9915-53a4ecc3634e.png)
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
 
-![image](https://user-images.githubusercontent.com/94079321/146950147-daaf19c3-d879-41e3-b089-16cec320911a.png)
-
-
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
+
+![image](https://user-images.githubusercontent.com/94079321/146956821-1fb0c717-ddbf-420c-a90a-3cc7fa73ddae.png)
                                     
                                     (a) Encuentre VG y VS                      (b) Determine I1, I2, ID, e IS                   (c) Encuentre VDS y VDG
-  
-  ![image](https://user-images.githubusercontent.com/94079321/146950393-fae4895b-5ad5-41d9-b75d-7cda70591627.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146950442-8a066d37-f62b-40c9-a149-9c9ff759e1be.png)
-
+                                    
 SECCIÓN 7–4 Efecto de carga de un voltímetro
 
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
                        
                                      (a) 1 V        (b) 10 V          (c) 100 V             (d) 1000 V
-     
-   ![image](https://user-images.githubusercontent.com/94079321/146950571-9661cd77-9d89-4e53-b9f5-2013ccf3faa2.png)
-      
+                                     
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
-
-![image](https://user-images.githubusercontent.com/94079321/146950910-e594f78a-6332-44f9-baed-034a7346740f.png)
 
           (a) ¿Qué intervalo se deberá utilizar?
           (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
- 
-![image](https://user-images.githubusercontent.com/94079321/146950985-dea40363-6598-4259-85d7-776308f0cc1f.png)
- 
+          
+  ![image](https://user-images.githubusercontent.com/94079321/146956919-3cd91b79-79d1-430a-b989-3be2f324a113.png)
 
+          
 SECCIÓN 7–5 Redes en escalera
 
 39. Para el circuito mostrado en la figura 7-77, calcule:
 
-![image](https://user-images.githubusercontent.com/94079321/146951224-ec606b24-71c6-4374-af80-8e781c3b65a6.png)
+![image](https://user-images.githubusercontent.com/94079321/146956982-3634b176-13c5-4d06-b11b-ab22b1b23506.png)
 
         (a) La resistencia total entre las terminales de la fuente                  (b) La corriente total suministrada por la fuente
         (c) La corriente a través del resistor de 910 Æ                             (d) El voltaje desde el punto A hasta el punto B
-  
-  ![image](https://user-images.githubusercontent.com/94079321/146951298-3026a86f-e571-4681-b21f-6cd28523096d.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146951332-c4c54d37-a11d-4947-8728-48303e150d0f.png)
-      
+        
+        
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
-![image](https://user-images.githubusercontent.com/94079321/146951612-b44f7090-6193-43b8-a8b6-be7f532468da.png)
+![image](https://user-images.githubusercontent.com/94079321/146957044-88383a25-90b2-428d-b36f-86b768cc1e1b.png)
 
+![image](https://user-images.githubusercontent.com/94079321/146951288-03307fe7-de46-4e8e-a078-87565f757f09.png)
+![image](https://user-images.githubusercontent.com/94079321/146951314-0d00ea01-ef51-473f-a5cd-5e5cb2f432e3.png)
+![image](https://user-images.githubusercontent.com/94079321/146951345-ed796506-e93e-4a9f-8191-89a7468f97bd.png)
+![image](https://user-images.githubusercontent.com/94079321/146951369-224b1057-27ac-409e-a547-201b417950cb.png)
 
 43. Determine IT y VSALIDA en la figura 7-80
 
+![image](https://user-images.githubusercontent.com/94079321/146957090-0c482942-9034-49e7-a348-42836022ab48.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146951627-6a69be2b-d316-4b7d-a83e-c925c7dc122f.png)
+![image](https://user-images.githubusercontent.com/94079321/146951654-d8b85486-9669-4467-966d-04aed2573fa0.png)
 
 SECCIÓN 7–6 El puente Wheatstone
 
 45. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
+![image](https://user-images.githubusercontent.com/94079321/146957138-66b8d4ab-b68b-41ad-b7be-f88350855227.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146951838-54ab5b56-6164-44ed-b343-a8b21fe57767.png)
+
+
 SECCIÓN 7–7 Localización de fallas
 
 47. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
+![image](https://user-images.githubusercontent.com/94079321/146957220-8b9d2b57-86d1-4143-8676-3e27792dc1eb.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146951975-01cf3935-7a15-4000-831d-8534c868b642.png)
+
 49. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
+![image](https://user-images.githubusercontent.com/94079321/146957297-61c7aee8-fc93-4307-9490-ebdb9aaebe29.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146952216-8bc635d7-3ef7-405d-b77b-c0b5ec9e08f9.png)
+
 51. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir
+
+![image](https://user-images.githubusercontent.com/94079321/146957331-797084e7-4bd8-4a39-b206-6b333eeee38d.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146952252-8d81004e-a328-4c99-8395-979fc3188cce.png)
 
 3. Resolución Unidad 8
 
@@ -140,93 +160,54 @@ SECCIÓN 8–3 Conversiones de fuente
 
 1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 Æ. Conviértala en una fuente de corriente equivalente.
 
-![image](https://user-images.githubusercontent.com/94079321/146952089-b4de7fdc-f922-449a-9922-11cfd94134f6.png)
-
-3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
-
-![image](https://user-images.githubusercontent.com/94079321/146952228-f49b33d0-8560-4127-b756-e99507149449.png)
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente
-
-![image](https://user-images.githubusercontent.com/94079321/146952316-f3215dad-a474-4a27-8ed3-39ffbb018f7b.png)
 
 SECCIÓN 8–4 El teorema de superposición
 
 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69. 
- 
-![image](https://user-images.githubusercontent.com/94079321/146952789-f9ed2e54-063d-4f3d-bc8c-a1601ccb9131.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146952840-65bd98b0-0c0b-4c5f-93b5-10a6c818d2c7.png)
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70
 
-![image](https://user-images.githubusercontent.com/94079321/146952939-753597d3-05b2-4bd5-8a01-aabddf2144e5.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146952979-e1942209-e57e-414f-966b-57a4587bed53.png)
-
-11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA> VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
-  
-  ![image](https://user-images.githubusercontent.com/94079321/146953860-dbb23bc6-13a7-42d7-b84d-ce3142bbdb68.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146953898-803e7e24-e210-44b8-a447-f36ce1be4e94.png)
-
+11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
+        
 13. Determine el voltaje del punto A al punto B en la figura 8-73.
 
-![image](https://user-images.githubusercontent.com/94079321/146953950-2da5652b-37e6-4ac4-afd7-3dc5ba375f27.png)
-
-![image](https://user-images.githubusercontent.com/94079321/146953996-abd8d0a0-4aea-4fe5-8c45-f979b5f3c351.png)
-
 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
-
-![image](https://user-images.githubusercontent.com/94079321/146956478-1ffa4f80-48bc-470d-a6bd-2087d2b37d49.png)
 
 SECCIÓN 8–5 Teorema de Thevenin
 
 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77
 
-![image](https://user-images.githubusercontent.com/94079321/146956571-a8a7407e-cb45-4660-a610-97323f081979.png)
-
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
 
-![image](https://user-images.githubusercontent.com/94079321/146956631-0682fea2-4eb5-4e8e-b41c-03349a332468.png)
-
 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
-
-![image](https://user-images.githubusercontent.com/94079321/146956692-0fb4105b-d27d-4548-a2d3-876ec19fc9d0.png)
 
 SECCIÓN 8–6 Teorema de Norton 
 
 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
-![image](https://user-images.githubusercontent.com/94079321/146956811-b980fdfd-280c-41bb-849f-773424bfa048.png)
-
 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
-
-![image](https://user-images.githubusercontent.com/94079321/146956899-d468aaee-f061-4f1f-a75a-b4b4755e6b1e.png)
 
 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
 
-![image](https://user-images.githubusercontent.com/94079321/146956743-d5891441-40cc-4bdd-bdbf-b02c9d84308f.png)
-
 29. Aplique el teorema de Norton al circuito de la figura 8-84.
 
-![image](https://user-images.githubusercontent.com/94079321/146956963-6c4fbb2d-d062-41a2-9ea3-d3119b708eca.png)
+![image](https://user-images.githubusercontent.com/94079321/146953140-3cd091c9-5374-4d47-846f-2d876818a86e.png)
+
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
-31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima. 
+31. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
 
-![image](https://user-images.githubusercontent.com/94079321/146957039-38037e8c-e5e9-4d95-bc1d-ecfd51749006.png)
-
-33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en la configuración de escalera de la figura 8-87?
-
-![image](https://user-images.githubusercontent.com/94079321/146957079-abac1ca9-8b19-499f-a8bc-622e13fa7b2d.png)
+![image](https://user-images.githubusercontent.com/94079321/146953171-c828fed4-4746-42d5-88bf-8533b97507be.png)
 
 SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
-35. En la figura 8-89, convierta cada red Y en una red delta
+33. En la figura 8-89, convierta cada red Y en una red delta
 
-![image](https://user-images.githubusercontent.com/94079321/146957143-da0a38df-9798-40ef-a9ae-692dc6e31195.png)
+![image](https://user-images.githubusercontent.com/94079321/146953195-fc9f75de-d109-4ff8-a4af-f7d27cbf1dbe.png)
 
 Conclusiones
 
