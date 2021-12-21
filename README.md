@@ -235,32 +235,48 @@ SECCIÓN 8–5 Teorema de Thevenin
 
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
 
+![image](https://user-images.githubusercontent.com/94079321/146962092-c23ca116-0dc3-41de-82f6-6dd98daf970a.png)
+
 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/94079321/146962155-b5f3147d-f773-4720-b6f7-c81976f77440.png)
 
 SECCIÓN 8–6 Teorema de Norton 
 
 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
+![image](https://user-images.githubusercontent.com/94079321/146962256-0ea5a51e-9bf1-491c-8432-48aee03f19a7.png)
+
 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/94079321/146962299-d6d0c1f8-cf1c-4c36-a70d-d5f86cd0856b.png)
 
 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
 
+![image](https://user-images.githubusercontent.com/94079321/146962177-0d9950ba-8fb0-4e77-8c7d-72dd17376b7c.png)
+
 29. Aplique el teorema de Norton al circuito de la figura 8-84.
 
-![image](https://user-images.githubusercontent.com/94079321/146953140-3cd091c9-5374-4d47-846f-2d876818a86e.png)
+![image](https://user-images.githubusercontent.com/94079321/146962476-230b714b-40c4-4c1b-af80-fdb2d367eb51.png)
+
+! [imagen] (https://user-images.githubusercontent.com/94079321/146953140-3cd091c9-5374-4d47-846f-2d876818a86e.png)
 
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 31. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
 
-![image](https://user-images.githubusercontent.com/94079321/146953171-c828fed4-4746-42d5-88bf-8533b97507be.png)
+![image](https://user-images.githubusercontent.com/94079321/146962538-2d004c23-6f8b-488d-b31a-e225ba7f9a6a.png)
+
+! [imagen] (https://user-images.githubusercontent.com/94079321/146953171-c828fed4-4746-42d5-88bf-8533b97507be.png)
 
 SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
 33. En la figura 8-89, convierta cada red Y en una red delta
 
-![image](https://user-images.githubusercontent.com/94079321/146953195-fc9f75de-d109-4ff8-a4af-f7d27cbf1dbe.png)
+![image](https://user-images.githubusercontent.com/94079321/146962578-3612f8d9-7acf-4d31-9a46-a78189b1e02f.png)
+
+! [imagen] (https://user-images.githubusercontent.com/94079321/146953195-fc9f75de-d109-4ff8-a4af-f7d27cbf1dbe.png)
 
 Conclusiones
 
