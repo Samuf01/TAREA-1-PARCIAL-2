@@ -130,8 +130,11 @@ SECCIÓN 7–5 Redes en escalera
 
         (a) La resistencia total entre las terminales de la fuente                  (b) La corriente total suministrada por la fuente
         (c) La corriente a través del resistor de 910 Æ                             (d) El voltaje desde el punto A hasta el punto B
-        
-        
+
+![image](https://user-images.githubusercontent.com/94079321/146959969-5a276139-0a4a-4a01-8106-57d517bcedea.png)
+
+![image](https://user-images.githubusercontent.com/94079321/146960027-73ec63c3-bfbd-42e2-8a50-8995a0d92d7e.png)
+    
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
 ![image](https://user-images.githubusercontent.com/94079321/146957044-88383a25-90b2-428d-b36f-86b768cc1e1b.png)
