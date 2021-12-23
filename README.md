@@ -13,7 +13,7 @@ Aplicar el teorema de superposición y a su vez, reconocer los tipos de circuito
 
 -Diferenciar entre procesos de resolución de circuitos.
 
---Aplicar todo lo visto en el curso para la resolución de circuitos y simplificación de los problemas complejos .
+-Aplicar todo lo visto en el curso para la resolución de circuitos y simplificación de los problemas complejos.
 
 2. Marco Teórico
 
