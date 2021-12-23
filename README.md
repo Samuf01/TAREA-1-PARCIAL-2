@@ -7,7 +7,13 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1.1. Objetivo General
 
+Aplicar el teorema de superposición y a su vez, reconocer los tipos de circuitos que vamos a resolver.
+
 1.2. Objetivo Especifico
+
+-Diferenciar entre procesos de resolución de circuitos.
+
+--Aplicar todo lo visto en el curso para la resolución de circuitos y simplificación de los problemas complejos .
 
 2. Marco Teórico
 
@@ -279,9 +285,21 @@ SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 ![image](https://user-images.githubusercontent.com/94079321/146963902-b031a39e-b082-46d1-92cf-52fb8a380f7e.png)
 
 
-Conclusiones
+Conclusiones:
+
+-El teorema de superposicion debe ser estudiado y empleado en circuitos los cuales tengan más de una fuente de energía.
+
+-El teorema de superposicion siempre irá acompañado en su resolución junto a procesos como ley de Ohm, ley de Kirchhoff o método de mallas.
+
+Recomendaciones:
+
+-Tener claro los temas vistos anteriormente como Leyes de Kirchhoff, metodos de mallas y teoría en general de circuitos.
+
+-Saber diferenciar en un circuito todos sus componentes como ramas, nodos, mallas, resistencias ya que en su resolución nos será mucho más simple realizarla.
 
 Bibliografía
+
+Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
 
 Vídeo
 https://youtu.be/5JQtNbL4290
