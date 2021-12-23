@@ -31,18 +31,26 @@ SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros
 cuatro resistores
 
+![image](https://user-images.githubusercontent.com/94079321/147249487-772792a9-bce6-4f38-9ebe-13f5c41974f6.png)
+
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
 desde la fuente.
 
 ![image](https://user-images.githubusercontent.com/94079321/146956320-4456e807-79e6-4534-9bf2-2c7367fcb30c.png)
 
+![image](https://user-images.githubusercontent.com/94079321/147249589-1a4d7839-9e29-4c36-ae8d-e389f3585b59.png)
+
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
 ![image](https://user-images.githubusercontent.com/94079321/146956436-44f1a544-fb72-4256-9edd-1050bd838dbb.png)
 
-7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
+![image](https://user-images.githubusercontent.com/94079321/147249611-9734eb32-8a3f-4ad3-9247-2ec88491bd16.png)
+
+7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63 (c). La batería tiene que conectarse externamente a la tarjeta.
 
 ![image](https://user-images.githubusercontent.com/94079321/146956472-bdb9c47f-a3bb-4fb6-9170-bc9bbfd3f6d3.png)
+
+![image](https://user-images.githubusercontent.com/94079321/147249639-a99a2388-da91-411a-b05b-49e7211f9721.png)
 
 SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
@@ -50,26 +58,39 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/146956368-0f4a02c1-baff-4643-9260-37e61b31bb93.png)
 
+![image](https://user-images.githubusercontent.com/94079321/147249682-e42d4a13-e688-409b-88dd-1a8964ad5f00.png)
 
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
  
  ![image](https://user-images.githubusercontent.com/94079321/146956382-be905330-1d06-46e2-b338-192dbf0d6532.png)
 
-13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+![image](https://user-images.githubusercontent.com/94079321/147249712-b5e0d4cb-f2b1-4997-a931-99ba22dd012d.png)
+
+![image](https://user-images.githubusercontent.com/94079321/147249749-391c6aaf-78df-4b67-952f-f36e579d9ec5.png)
+
+13. RT Encuentra para todas las combinaciones de los interruptores de la figura 7-66.
 
 ![image](https://user-images.githubusercontent.com/94079321/146956516-7bc0200b-8f20-437f-a89e-7f628802adb3.png)
 
+![image](https://user-images.githubusercontent.com/94079321/147249780-30ad7712-f111-4b1f-8e62-e617511c4980.png)
+
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
-![image](https://user-images.githubusercontent.com/94079321/146956543-cf8c5909-7b5e-425c-a0fa-2168a48fc8a6.png)
+! [imagen] (https://user-images.githubusercontent.com/94079321/146956543-cf8c5909-7b5e-425c-a0fa-2168a48fc8a6.png)
+
+![image](https://user-images.githubusercontent.com/94079321/147249827-112d1c7d-22b3-4a58-b708-9365987a03b1.png)
 
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
 ![image](https://user-images.githubusercontent.com/94079321/146956572-9a6089de-ff0e-4ea9-953e-bec8bed1cf1b.png)
 
+![image](https://user-images.githubusercontent.com/94079321/147249851-966cb92a-593f-49c9-b71b-2d2bff885a34.png)
+
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
-![image](https://user-images.githubusercontent.com/94079321/146956593-804df415-ec3a-4ba5-9aab-7046df50e32f.png)
+![image](https://user-images.githubusercontent.com/94079321/147249874-c27d13a1-a6bd-421f-bb72-ae6ce5d619ac.png)
+
+! [imagen] (https://user-images.githubusercontent.com/94079321/146956593-804df415-ec3a-4ba5-9aab-7046df50e32f.png)
 
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2
 
@@ -194,6 +215,7 @@ SECCIÓN 8–3 Conversiones de fuente
 
 ![image](https://user-images.githubusercontent.com/94079321/146961233-e3a3b815-1477-4c92-8cc4-d0762f8cbc20.png)
 
+
 3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
 ![image](https://user-images.githubusercontent.com/94079321/146961276-856d3899-8dd2-4f0a-934d-b76feb6bda20.png)
@@ -232,6 +254,7 @@ SECCIÓN 8–4 El teorema de superposición
 
 ![image](https://user-images.githubusercontent.com/94079321/146961803-94222ac3-2c3e-4694-94e1-27606ac96e4a.png)
 
+![image](https://user-images.githubusercontent.com/94079321/147250259-8043ec3d-8a92-4394-b306-5f41a20cff59.png)
 
 SECCIÓN 8–5 Teorema de Thevenin
 
@@ -239,15 +262,22 @@ SECCIÓN 8–5 Teorema de Thevenin
 
 ![image](https://user-images.githubusercontent.com/94079321/146961882-05c4ccc1-6fe7-4b63-93f4-16022e91d33a.png)
 
+![image](https://user-images.githubusercontent.com/94079321/147250352-e92db71d-67c0-4493-9daa-aff3ec358f88.png)
+
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
 
 ![image](https://user-images.githubusercontent.com/94079321/146962092-c23ca116-0dc3-41de-82f6-6dd98daf970a.png)
+
+![image](https://user-images.githubusercontent.com/94079321/147250377-6d0c5242-72aa-4931-b446-fc4dfb41c698.png)
 
 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 
 ![image](https://user-images.githubusercontent.com/94079321/146962155-b5f3147d-f773-4720-b6f7-c81976f77440.png)
 
-SECCIÓN 8–6 Teorema de Norton 
+![image](https://user-images.githubusercontent.com/94079321/147250427-ea683454-9f12-4892-8435-a96340a2828f.png)
+
+
+SECCIÓN 8–6 Teorema de Norton
 
 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
@@ -257,9 +287,13 @@ SECCIÓN 8–6 Teorema de Norton
 
 ![image](https://user-images.githubusercontent.com/94079321/146962299-d6d0c1f8-cf1c-4c36-a70d-d5f86cd0856b.png)
 
+![image](https://user-images.githubusercontent.com/94079321/147250574-2c128c74-27e8-4381-897c-7b1efcc1549d.png)
+
 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
 
 ![image](https://user-images.githubusercontent.com/94079321/146962177-0d9950ba-8fb0-4e77-8c7d-72dd17376b7c.png)
+
+![image](https://user-images.githubusercontent.com/94079321/147250804-573bc8ab-f9b6-43ee-b160-62de134b4fdd.png)
 
 29. Aplique el teorema de Norton al circuito de la figura 8-84.
 
